@@ -21,10 +21,10 @@ This function returns the list of requirements
     return requirements
             
 setup(
-    name = 'mlproject',
+    name = 'Student Performance Indicator',
     version = '0.0.1',
-    author = 'Suraj',
-    author_email = 'swaragade2@gmail.com',
+    author = 'Ashish',
+    author_email = 'ashishroshan4321@gmail.com',
     packages = find_packages(),
     install_requires = get_requirements('requirements.txt')
     
